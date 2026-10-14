@@ -1,0 +1,6 @@
+restaurant_id,restaurant_name,city,cuisine,rating,average_cost_for_two
+1,Spice Garden,Ahmedabad,North Indian,4.2,600
+2,Green Bowl,Ahmedabad,Healthy Food,4.5,450
+3,Pizza Corner,Surat,Italian,4.0,500
+4,South Spice,Vadodara,South Indian,4.1,350
+5,Cafe Bloom,Ahmedabad,Cafe,4.3,700
